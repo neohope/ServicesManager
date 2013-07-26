@@ -1,7 +1,7 @@
-HL7Client
-=========
-An Simple HL7 Client to send HL7 msg and recieve feedback.
-Not an editor!
+ServicesManager
+===============
+A simple service manager to start, stop and monitor windows services.
+
 
 
 how-to-build
