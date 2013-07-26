@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ServiceManager", "ServiceManager\ServiceManager.vcxproj", "{C9EA2010-2B62-4240-81C7-1FD501CBC540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9EA2010-2B62-4240-81C7-1FD501CBC540}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9EA2010-2B62-4240-81C7-1FD501CBC540}.Debug|Win32.Build.0 = Debug|Win32
+		{C9EA2010-2B62-4240-81C7-1FD501CBC540}.Debug|x64.ActiveCfg = Debug|x64
+		{C9EA2010-2B62-4240-81C7-1FD501CBC540}.Debug|x64.Build.0 = Debug|x64
+		{C9EA2010-2B62-4240-81C7-1FD501CBC540}.Release|Win32.ActiveCfg = Release|Win32
+		{C9EA2010-2B62-4240-81C7-1FD501CBC540}.Release|Win32.Build.0 = Release|Win32
+		{C9EA2010-2B62-4240-81C7-1FD501CBC540}.Release|x64.ActiveCfg = Release|x64
+		{C9EA2010-2B62-4240-81C7-1FD501CBC540}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
